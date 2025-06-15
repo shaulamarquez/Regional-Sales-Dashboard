@@ -55,7 +55,7 @@ It includes the in-depth look of the following:
 
 ## Executive Summary
 
-- In 2022, revenue grew by 3.9%, rising from ₱380,046,646.92 in the previous year to $394,859,780.08. The upward trend continued in 2023 with a 1.75% increase, reaching a total revenue of $401,774,736.35.
+- In 2022, revenue grew by 3.9%, rising from $380,046,646.92 in the previous year to $394,859,780.08. The upward trend continued in 2023 with a 1.75% increase, reaching a total revenue of $401,774,736.35.
 - A seasonal trend is observed, with a significant decrease in revenue during February, likely due to consumers tightening their budgets after the holiday season. Despite this dip, revenue increased by 3.83% in 2022 and by 3.46% in 2023, indicating overall growth.
 - Alcoholic beverages led in sales among all product categories. In 2021, total sales reached $294,552,989.91, with 542,175 orders. This increased by 3.98% in 2022, totaling $306,266,344.48, with 544,028 orders. In 2023, sales continued to grow by 1.54%, reaching $310,978,585.33, with 541,678 orders.
 - The best-selling alcoholic beverage in 2021 was Veuve Clicquot, generating $65,695,352.92 in sales. In 2022, sales increased by 3.63%, reaching $68,082,230.28, and continued to rise by 1.06% in 2023, totaling $68,804,315.22.

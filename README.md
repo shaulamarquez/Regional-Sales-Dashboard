@@ -60,11 +60,11 @@ It includes the in-depth look of the following:
 - Order_Date - The date when the order was placed.
 
 ## Tools Used:
-Microsoft SQL Server (Data Cleaning and Transformation)
+- Microsoft SQL Server (Data Cleaning and Transformation)
 
-Microsoft Power BI (Data Visualization and Reporting)
+- Microsoft Power BI (Data Visualization and Reporting)
 
-DAX (Calculated Metrics)
+- DAX (Calculated Metrics)
 
 ## Executive Summary
 

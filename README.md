@@ -5,6 +5,13 @@ Dataset: [Sales Beverage Data](https://www.kaggle.com/datasets/sebastianwillmann
 
 This dataset was created to simulate realistic sales patterns in the beverage industry, highlighting important factors like regional preferences, seasonal fluctuations, and customer segmentation. It features both Business-to-Business (B2B) and Business-to-Consumer (B2C) transactions, making it adaptable for a variety of analytical purposes.
 
+## Project Highlights:
+- Built an interactive dashboard tailored to FMCG marketing use cases.
+
+- Processed and cleaned a large dataset with over 17 million records using Microsoft SQL Server.
+
+- Visualized clean, structured data in Microsoft Power BI, focusing on actionable insights.
+
 This project is an overview of a yearly revenue of 14 regions in Germany from 2021 - 2023:
 
 - Baden-Wurttemberg
@@ -30,7 +37,6 @@ It includes the in-depth look of the following:
 - Total Revenue
 - Month over Month growth 
 - Year over Year growth
-- Current vs Previous Revenue
 - Revenue Comparison: This Year vs Last Year
 - Revenue per Product Category
 - Top 10 Regions by Revenue
@@ -52,6 +58,13 @@ It includes the in-depth look of the following:
 - Total_Price - The total price for the product after applying discounts.
 - Region - The region of the customer, such as "Bayern" or "Berlin".
 - Order_Date - The date when the order was placed.
+
+## Tools Used:
+Microsoft SQL Server (Data Cleaning and Transformation)
+
+Microsoft Power BI (Data Visualization and Reporting)
+
+DAX (Calculated Metrics)
 
 ## Executive Summary
 

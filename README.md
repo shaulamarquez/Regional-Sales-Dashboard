@@ -8,7 +8,7 @@ This dataset was created to simulate realistic sales patterns in the beverage in
 ## Project Highlights:
 - Built an interactive dashboard tailored to FMCG marketing use cases.
 
-- Processed and cleaned a large dataset with over 17 million records using Microsoft SQL Server.
+- Processed and checked if the data is cleaned with over 17 million records using Microsoft SQL Server.
 
 - Visualized clean, structured data in Microsoft Power BI, focusing on actionable insights.
 
@@ -60,7 +60,7 @@ It includes the in-depth look of the following:
 - Order_Date - The date when the order was placed.
 
 ## Tools Used:
-- Microsoft SQL Server (Data Cleaning and Transformation)
+- Microsoft SQL Server (Processed and Checked the Data)
 
 - Microsoft Power BI (Data Visualization and Reporting)
 
